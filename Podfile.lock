@@ -1,0 +1,17 @@
+PODS:
+  - EZAudio (1.0.1):
+    - EZAudio/Full (= 1.0.1)
+  - EZAudio/Core (1.0.1)
+  - EZAudio/Full (1.0.1):
+    - EZAudio/Core
+    - TPCircularBuffer (~> 0.0)
+  - TPCircularBuffer (0.0.1)
+
+DEPENDENCIES:
+  - EZAudio (~> 1.0)
+
+SPEC CHECKSUMS:
+  EZAudio: 259bede441b09f2d4fec47beca29a01180407e37
+  TPCircularBuffer: 949e9632b9fb99b7274d7b2296ee22bff5841e35
+
+COCOAPODS: 0.37.2
